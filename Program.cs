@@ -8,6 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("hello I am thilina Udayanga");
+            Console.WriteLine("Country is Sri lanka");
         }
     }
 }
