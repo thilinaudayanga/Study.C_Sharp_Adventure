@@ -1,14 +1,14 @@
 using System;
-namespace Result
+/*namespace Result
 {
-class program
+class Program
 { 
     static void Main(string[] args)
     {
-        Console.WriteLine();
+        Console.WriteLine("hello my friends.");
     }
 }
-}
+}*/
 
 
 
